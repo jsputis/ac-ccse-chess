@@ -24,9 +24,10 @@ ol, ul {
 img{
   margin:20px;
 }
-.logo{
+.logos{
   width:100px;
   height: 100px;
+  text-align: center;
 }
 
 .status {

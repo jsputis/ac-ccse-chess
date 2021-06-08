@@ -129,9 +129,10 @@ export default class Game extends React.Component {
         <div className="game-info">
             
             <div className="Logos">
-            <img src="https://ccse.io/wp-content/uploads/2019/03/logo_ccse-300x300.png" width="100px" alt="CCSE LOGO"/>
+            <img src="https://ccse.io/wp-content/uploads/2019/03/logo_ccse-300x300.png" width="150px" alt="CCSE LOGO"/>
             <img src="https://www.asiancollege.edu.ph/wp-content/uploads/2017/10/ac-logo-stacked-512-1.png?x61212" width="150px" alt="AC LOGO"/>
             <h1>IPTECH 1 Final Requirements</h1>
+            <h2>Asian College CCSE Chess</h2>
             </div>
             
             
